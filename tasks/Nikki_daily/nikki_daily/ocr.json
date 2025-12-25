@@ -1,0 +1,38 @@
+[
+  {
+    "itemName": "design_center_entrance_text",
+    "roiFront": "44,1206,79,22",
+    "roiBack": "44,1206,79,22",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "设计中心",
+    "description": "主页设计中心文本"
+  },
+  {
+    "itemName": "start_journey_entrance_text",
+    "roiFront": "273,1206,79,22",
+    "roiBack": "273,1206,79,22",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "开始旅程",
+    "description": "主页开始旅程文本"
+  },
+  {
+    "itemName": "tip_text",
+    "roiFront": "222,623,278,36",
+    "roiBack": "222,623,278,36",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "提示文本位置"
+  },
+  {
+    "itemName": "power_count",
+    "roiFront": "129,10,86,22",
+    "roiBack": "129,10,86,22",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "体力数据"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "itemName": "receive_mail_invalid_area",
+    "roiFront": "212,96,199,90",
+    "roiBack": "212,96,199,90",
+    "description": "点击无效区域"
+  }
+]

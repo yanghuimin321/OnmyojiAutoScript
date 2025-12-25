@@ -1,0 +1,14 @@
+[
+  {
+    "itemName": "daily_reward_package",
+    "roiFront": "629,526,66,42",
+    "roiBack": "629,526,66,42",
+    "description": "任务中礼盒点击区域"
+  },
+  {
+    "itemName": "daily_reward_fashion_tab",
+    "roiFront": "439,639,200,44",
+    "roiBack": "439,639,200,44",
+    "description": "时尚任务tab的点击区域"
+  }
+]

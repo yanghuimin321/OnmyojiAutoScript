@@ -1,0 +1,74 @@
+[
+  {
+    "itemName": "corridor_task_exchange_button",
+    "roiFront": "593,186,124,38",
+    "roiBack": "593,186,124,38",
+    "description": "切换章节/期数按钮点击区域"
+  },
+  {
+    "itemName": "corridor_task_first_issue",
+    "roiFront": "89,302,523,171",
+    "roiBack": "89,302,523,171",
+    "description": "切换期数弹窗第一期的点击区域"
+  },
+  {
+    "itemName": "corridor_task_back_game",
+    "roiFront": "4,60,75,62",
+    "roiBack": "4,60,75,62",
+    "description": "分享后点击返回区域回游戏"
+  },
+  {
+    "itemName": "corridor_task_pop_click_1",
+    "roiFront": "87,399,533,180",
+    "roiBack": "87,399,533,180",
+    "description": "期数列表中期数点击区域"
+  },
+  {
+    "itemName": "corridor_task_pop_click_2",
+    "roiFront": "87,638,533,180",
+    "roiBack": "87,638,533,180",
+    "description": "期数列表中期数点击区域"
+  },
+  {
+    "itemName": "corridor_task_pop_click_3",
+    "roiFront": "87,877,533,180",
+    "roiBack": "87,877,533,180",
+    "description": "期数列表中期数点击区域"
+  },
+  {
+    "itemName": "corridor_task_pop_click_4",
+    "roiFront": "87,282,533,66",
+    "roiBack": "87,282,533,66",
+    "description": "期数列表中期数点击区域"
+  },
+  {
+    "itemName": "corridor_task_click_1",
+    "roiFront": "272,1029,174,130",
+    "roiBack": "272,1029,174,130",
+    "description": "第五六期，制作服装点击区域"
+  },
+  {
+    "itemName": "corridor_task_click_2",
+    "roiFront": "452,1122,225,77",
+    "roiBack": "452,1122,225,77",
+    "description": "第四期，制作服装点击区域"
+  },
+  {
+    "itemName": "corridor_task_click_3",
+    "roiFront": "41,1057,204,117",
+    "roiBack": "41,1057,204,117",
+    "description": "第七期，制作服装点击区域"
+  },
+  {
+    "itemName": "corridor_task_make_tab_click",
+    "roiFront": "575,505,93,89",
+    "roiBack": "575,505,93,89",
+    "description": "套装制作点击区域"
+  },
+  {
+    "itemName": "corridor_task_wake_tab_click",
+    "roiFront": "392,949,113,106",
+    "roiBack": "392,949,113,106",
+    "description": "影之唤醒点击区域"
+  }
+]

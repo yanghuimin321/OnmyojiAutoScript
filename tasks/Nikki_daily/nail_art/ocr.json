@@ -1,0 +1,74 @@
+[
+  {
+    "itemName": "nail_art_entrance_text",
+    "roiFront": "95,1061,64,35",
+    "roiBack": "95,1061,64,35",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "美甲",
+    "description": "美甲入口文本"
+  },
+  {
+    "itemName": "nail_art_page",
+    "roiFront": "393,27,304,64",
+    "roiBack": "393,27,304,64",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "美甲工作间",
+    "description": "美甲页标题"
+  },
+  {
+    "itemName": "nail_art_exchange_count",
+    "roiFront": "227,738,42,23",
+    "roiBack": "227,738,42,23",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "可兑换数量"
+  },
+  {
+    "itemName": "nail_art_exchange_num",
+    "roiFront": "452,735,23,29",
+    "roiBack": "452,735,23,29",
+    "mode": "Digit",
+    "method": "Default",
+    "keyword": "",
+    "description": "兑换数量"
+  },
+  {
+    "itemName": "nail_art_shop_package_receive_1",
+    "roiFront": "512,471,124,43",
+    "roiBack": "512,471,124,43",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "周奖励领取按钮"
+  },
+  {
+    "itemName": "nail_art_shop_package_receive_2",
+    "roiFront": "512,535,124,43",
+    "roiBack": "512,535,124,43",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "周奖励领取按钮"
+  },
+  {
+    "itemName": "nail_art_shop_package_receive_3",
+    "roiFront": "512,708,124,43",
+    "roiBack": "512,708,124,43",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "周奖励领取按钮"
+  },
+  {
+    "itemName": "nail_art_shop_package_receive_4",
+    "roiFront": "512,881,124,43",
+    "roiBack": "512,881,124,43",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "周奖励领取按钮"
+  }
+]

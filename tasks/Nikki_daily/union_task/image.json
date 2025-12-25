@@ -1,0 +1,146 @@
+[
+  {
+    "itemName": "union_task_entrance",
+    "imageName": "union_task_entrance.png",
+    "roiFront": "655,277,38,42",
+    "roiBack": "655,277,38,42",
+    "method": "Template matching",
+    "threshold": 0.4,
+    "description": "联盟主页入口图标"
+  },
+  {
+    "itemName": "union_task_welfare",
+    "imageName": "union_task_welfare.png",
+    "roiFront": "43,1034,45,76",
+    "roiBack": "43,1034,45,76",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟福利图标"
+  },
+  {
+    "itemName": "union_task_mission",
+    "imageName": "union_task_mission.png",
+    "roiFront": "365,810,89,102",
+    "roiBack": "365,810,89,102",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟机密任务图标"
+  },
+  {
+    "itemName": "union_task_donate",
+    "imageName": "union_task_donate.png",
+    "roiFront": "551,813,89,102",
+    "roiBack": "551,813,89,102",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟捐献图标"
+  },
+  {
+    "itemName": "union_task_shop",
+    "imageName": "union_task_shop.png",
+    "roiFront": "551,629,89,102",
+    "roiBack": "551,629,89,102",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟商店图标"
+  },
+  {
+    "itemName": "union_task_welfare_pop",
+    "imageName": "union_task_welfare_pop.png",
+    "roiFront": "300,251,122,38",
+    "roiBack": "300,251,122,38",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟福利弹窗标题"
+  },
+  {
+    "itemName": "union_task_welfare_receive",
+    "imageName": "union_task_welfare_receive.png",
+    "roiFront": "269,955,181,48",
+    "roiBack": "269,955,181,48",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "联盟福利一键领取按钮"
+  },
+  {
+    "itemName": "union_task_donate_pop",
+    "imageName": "union_task_donate_pop.png",
+    "roiFront": "265,314,190,42",
+    "roiBack": "265,314,190,42",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟捐献弹窗标题"
+  },
+  {
+    "itemName": "union_task_donate_free",
+    "imageName": "union_task_donate_free.png",
+    "roiFront": "95,801,126,56",
+    "roiBack": "95,801,126,56",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "联盟捐献免费捐赠按钮"
+  },
+  {
+    "itemName": "union_task_donate_gold",
+    "imageName": "union_task_donate_gold.png",
+    "roiFront": "95,801,126,56",
+    "roiBack": "95,801,126,56",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "联盟捐献金币捐赠按钮"
+  },
+  {
+    "itemName": "union_task_mission_page",
+    "imageName": "union_task_mission_page.png",
+    "roiFront": "250,64,215,62",
+    "roiBack": "250,64,215,62",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟机密任务页面标题"
+  },
+  {
+    "itemName": "union_task_mission_goto_button",
+    "imageName": "union_task_mission_goto_button.png",
+    "roiFront": "254,1156,211,52",
+    "roiBack": "254,1156,211,52",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟机密任务页面<前往当前目标>按钮"
+  },
+  {
+    "itemName": "union_task_mission_run_alone",
+    "imageName": "union_task_mission_run_alone.png",
+    "roiFront": "112,1159,121,48",
+    "roiBack": "112,1159,121,48",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟机密任务执行一次按钮（仅一个按钮）"
+  },
+  {
+    "itemName": "union_task_shop_page",
+    "imageName": "union_task_shop_page.png",
+    "roiFront": "75,454,120,49",
+    "roiBack": "75,454,120,49",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟商店页面标题"
+  },
+  {
+    "itemName": "union_task_shop_ticket",
+    "imageName": "union_task_shop_ticket.png",
+    "roiFront": "409,609,68,43",
+    "roiBack": "409,609,68,43",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟商店幻之券图标"
+  },
+  {
+    "itemName": "union_task_shop_exchange_button",
+    "imageName": "union_task_shop_exchange_button.png",
+    "roiFront": "159,715,398,58",
+    "roiBack": "159,715,398,58",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "联盟商店幻之券购买按钮"
+  }
+]

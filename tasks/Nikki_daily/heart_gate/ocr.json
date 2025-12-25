@@ -1,0 +1,47 @@
+[
+  {
+    "itemName": "heart_gate_detail",
+    "roiFront": "593,70,104,32",
+    "roiBack": "593,70,104,32",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "感应详情",
+    "description": "进入心之门之后显示的感应详情"
+  },
+  {
+    "itemName": "heart_gate_magical",
+    "roiFront": "23,113,79,122",
+    "roiBack": "23,113,79,122",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "勾",
+    "description": "幻之海图片文本"
+  },
+  {
+    "itemName": "heart_gate_next",
+    "roiFront": "615,162,76,22",
+    "roiBack": "615,162,76,22",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "下期预告",
+    "description": "幻之海流光下期预告文本"
+  },
+  {
+    "itemName": "heart_gate_magical_free",
+    "roiFront": "92,1085,57,31",
+    "roiBack": "92,1085,57,31",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "免费",
+    "description": "幻之海免费抽文本"
+  },
+  {
+    "itemName": "heart_gate_puzzle",
+    "roiFront": "24,114,86,285",
+    "roiBack": "24,114,86,285",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "谜之海",
+    "description": "谜之海图片文本"
+  }
+]

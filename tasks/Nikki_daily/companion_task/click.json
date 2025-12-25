@@ -1,0 +1,50 @@
+[
+  {
+    "itemName": "companion_task_quick_button",
+    "roiFront": "527,1140,137,49",
+    "roiBack": "527,1140,137,49",
+    "description": "快速组队按钮点击区域"
+  },
+  {
+    "itemName": "companion_task_add_button",
+    "roiFront": "635,1077,33,29",
+    "roiBack": "635,1077,33,29",
+    "description": "+按钮点击区域"
+  },
+  {
+    "itemName": "companion_task_reduce_button",
+    "roiFront": "519,1077,33,29",
+    "roiBack": "519,1077,33,29",
+    "description": "-按钮点击区域"
+  },
+  {
+    "itemName": "companion_task_curtain_area_1",
+    "roiFront": "127,173,494,151",
+    "roiBack": "127,173,494,151",
+    "description": "不落的帷幕选择区域"
+  },
+  {
+    "itemName": "companion_task_curtain_area_2",
+    "roiFront": "127,378,494,151",
+    "roiBack": "127,378,494,151",
+    "description": "不落的帷幕选择区域"
+  },
+  {
+    "itemName": "companion_task_curtain_area_3",
+    "roiFront": "127,585,494,151",
+    "roiBack": "127,585,494,151",
+    "description": "不落的帷幕选择区域"
+  },
+  {
+    "itemName": "companion_task_curtain_area_4",
+    "roiFront": "127,793,494,151",
+    "roiBack": "127,793,494,151",
+    "description": "不落的帷幕选择区域"
+  },
+  {
+    "itemName": "companion_task_curtain_area_5",
+    "roiFront": "127,1001,494,151",
+    "roiBack": "127,1001,494,151",
+    "description": "不落的帷幕选择区域"
+  }
+]

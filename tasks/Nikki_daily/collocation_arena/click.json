@@ -1,0 +1,14 @@
+[
+  {
+    "itemName": "collocation_arena_like_1",
+    "roiFront": "135,1063,86,84",
+    "roiBack": "135,1063,86,84",
+    "description": "点赞按钮区域"
+  },
+  {
+    "itemName": "collocation_arena_like_2",
+    "roiFront": "501,1063,86,84",
+    "roiBack": "501,1063,86,84",
+    "description": "点赞按钮区域"
+  }
+]

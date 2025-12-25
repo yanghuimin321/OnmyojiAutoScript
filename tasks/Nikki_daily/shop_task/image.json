@@ -1,0 +1,119 @@
+[
+  {
+    "itemName": "shop_task_entrance",
+    "imageName": "shop_task_entrance.png",
+    "roiFront": "652,738,40,38",
+    "roiBack": "652,738,40,38",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城主页入口图标"
+  },
+  {
+    "itemName": "shop_task_page",
+    "imageName": "shop_task_page.png",
+    "roiFront": "302,48,115,49",
+    "roiBack": "302,48,115,49",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城主页"
+  },
+  {
+    "itemName": "shop_task_stuff_1",
+    "imageName": "shop_task_stuff.png",
+    "roiFront": "355,436,122,41",
+    "roiBack": "355,436,122,41",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城_材料专区tab_未选中"
+  },
+  {
+    "itemName": "shop_task_stuff_2",
+    "imageName": "shop_task_stuff.png",
+    "roiFront": "523,436,122,41",
+    "roiBack": "523,436,122,41",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城_材料专区tab_未选中"
+  },
+  {
+    "itemName": "shop_task_stuff_checked_1",
+    "imageName": "shop_task_stuff_checked.png",
+    "roiFront": "355,436,122,41",
+    "roiBack": "355,436,122,41",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城_材料专区tab_选中"
+  },
+  {
+    "itemName": "shop_task_stuff_checked_2",
+    "imageName": "shop_task_stuff_checked.png",
+    "roiFront": "523,436,122,41",
+    "roiBack": "523,436,122,41",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城_材料专区tab_选中"
+  },
+  {
+    "itemName": "shop_task_week_free_button_1",
+    "imageName": "shop_task_week_free_button.png",
+    "roiFront": "54,788,126,39",
+    "roiBack": "54,788,126,39",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城_材料专区_周试剂免费按钮"
+  },
+  {
+    "itemName": "shop_task_week_free_button_2",
+    "imageName": "shop_task_week_free_receive.png",
+    "roiFront": "54,788,126,39",
+    "roiBack": "54,788,126,39",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城_材料专区_周试剂免费按钮"
+  },
+  {
+    "itemName": "shop_task_week_free_button_3",
+    "imageName": "shop_task_week_free_receive_2.png",
+    "roiFront": "54,788,126,39",
+    "roiBack": "54,788,126,39",
+    "method": "Template matching",
+    "threshold": 0.95,
+    "description": "商城_材料专区_周试剂免费按钮"
+  },
+  {
+    "itemName": "shop_task_week_free_buy",
+    "imageName": "shop_task_week_free_buy.png",
+    "roiFront": "161,974,402,58",
+    "roiBack": "161,974,402,58",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城_材料专区_周试剂免费购买按钮"
+  },
+  {
+    "itemName": "shop_task_vip_tip",
+    "imageName": "shop_task_vip_tip.png",
+    "roiFront": "673,122,11,10",
+    "roiBack": "673,122,11,10",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城_充值tab右上角是否有提示领取"
+  },
+  {
+    "itemName": "shop_task_vip_text",
+    "imageName": "shop_task_vip_text.png",
+    "roiFront": "118,457,461,28",
+    "roiBack": "118,457,461,28",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城充值页面的提示信息"
+  },
+  {
+    "itemName": "shop_task_vip_week_package",
+    "imageName": "shop_task_vip_week_package.png",
+    "roiFront": "562,148,78,100",
+    "roiBack": "562,148,78,100",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "商城尊享福利每周礼包"
+  }
+]

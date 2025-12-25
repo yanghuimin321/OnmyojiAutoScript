@@ -1,0 +1,9 @@
+[
+  {
+    "itemName": "welfare_task_swipe",
+    "roiFront": "582,134,130,44",
+    "roiBack": "13,224,366,131",
+    "mode": "default",
+    "description": "向左滑动tab内容"
+  }
+]

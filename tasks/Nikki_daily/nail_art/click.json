@@ -1,0 +1,38 @@
+[
+  {
+    "itemName": "nail_art_entrance",
+    "roiFront": "83,1061,261,113",
+    "roiBack": "83,1061,261,113",
+    "description": "美甲入口点击区域"
+  },
+  {
+    "itemName": "nail_art_purchase_entrance",
+    "roiFront": "242,385,110,84",
+    "roiBack": "242,385,110,84",
+    "description": "美甲-前往采购入口点击区域"
+  },
+  {
+    "itemName": "nail_art_purchase_design_zone",
+    "roiFront": "18,164,146,37",
+    "roiBack": "18,164,146,37",
+    "description": "美甲-前往采购-设计专区点击区域"
+  },
+  {
+    "itemName": "nail_art_purchase_design_zone_free",
+    "roiFront": "530,280,141,51",
+    "roiBack": "530,280,141,51",
+    "description": "美甲-前往采购-设计专区-免费缤纷星券点击区域"
+  },
+  {
+    "itemName": "nail_art_purchase_design_zone_add_button",
+    "roiFront": "514,736,31,28",
+    "roiBack": "514,736,31,28",
+    "description": "美甲-前往采购-设计专区-每周星券add区域"
+  },
+  {
+    "itemName": "nail_art_shop_invalid_area",
+    "roiFront": "83,165,379,122",
+    "roiBack": "83,165,379,122",
+    "description": "美甲-我的店铺-无效点击区域"
+  }
+]

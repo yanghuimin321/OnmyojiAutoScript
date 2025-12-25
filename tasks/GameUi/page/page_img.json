@@ -2,10 +2,10 @@
   {
     "itemName": "check_main",
     "imageName": "page_check_main.png",
-    "roiFront": "801,109,38,37",
-    "roiBack": "49,98,1033,61",
+    "roiFront": "129,13,20,18",
+    "roiBack": "129,13,20,18",
     "method": "Template matching",
-    "threshold": 0.8,
+    "threshold": 0.4,
     "description": "description"
   },
   {

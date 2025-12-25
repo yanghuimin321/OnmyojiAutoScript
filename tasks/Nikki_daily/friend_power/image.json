@@ -1,0 +1,47 @@
+[
+  {
+    "itemName": "friend_power_entrance",
+    "imageName": "friend_power_entrance.png",
+    "roiFront": "657,179,38,42",
+    "roiBack": "657,179,38,42",
+    "method": "Template matching",
+    "threshold": 0.5,
+    "description": "好友主页入口图标"
+  },
+  {
+    "itemName": "friend_power_send_button",
+    "imageName": "friend_power_send_button.png",
+    "roiFront": "24,1197,152,53",
+    "roiBack": "24,1197,152,53",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "好友页面一键送心按钮"
+  },
+  {
+    "itemName": "friend_power_receive_button",
+    "imageName": "friend_power_receive_button.png",
+    "roiFront": "213,1199,154,53",
+    "roiBack": "213,1199,154,53",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "好友页面领取体力按钮"
+  },
+  {
+    "itemName": "friend_power_receive_pop",
+    "imageName": "friend_power_receive_pop.png",
+    "roiFront": "296,257,130,34",
+    "roiBack": "296,257,130,34",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "好友领取体力弹窗标题"
+  },
+  {
+    "itemName": "friend_power_one_click_receive",
+    "imageName": "friend_power_one_click_receive.png",
+    "roiFront": "221,950,268,49",
+    "roiBack": "221,950,268,49",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "好友一键领取体力按钮"
+  }
+]

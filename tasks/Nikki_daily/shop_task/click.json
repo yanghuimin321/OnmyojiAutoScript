@@ -1,0 +1,14 @@
+[
+  {
+    "itemName": "shop_task_vip_tab_area",
+    "roiFront": "609,129,72,65",
+    "roiBack": "609,129,72,65",
+    "description": "商场充值tab点击区域"
+  },
+  {
+    "itemName": "shop_task_vip_button",
+    "roiFront": "59,524,595,103",
+    "roiBack": "59,524,595,103",
+    "description": "商场充值尊享点击区域"
+  }
+]

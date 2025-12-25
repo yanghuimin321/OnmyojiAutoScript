@@ -1,0 +1,128 @@
+[
+  {
+    "itemName": "nail_art_purchase_tip",
+    "imageName": "nail_art_purchase_tip.png",
+    "roiFront": "331,355,20,24",
+    "roiBack": "331,355,20,24",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲前往采购的提示按钮"
+  },
+  {
+    "itemName": "nail_art_purchase_page",
+    "imageName": "nail_art_purchase_page.png",
+    "roiFront": "545,51,159,95",
+    "roiBack": "545,51,159,95",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲前往采购的页面"
+  },
+  {
+    "itemName": "nail_art_purchase_design_zone_page",
+    "imageName": "nail_art_purchase_design_zone_page.png",
+    "roiFront": "104,273,49,53",
+    "roiBack": "104,273,49,53",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-前往采购-设计专区的页面"
+  },
+  {
+    "itemName": "nail_art_purchase_design_zone_get_ticket",
+    "imageName": "nail_art_purchase_design_zone_get_ticket.png",
+    "roiFront": "332,566,64,81",
+    "roiBack": "332,566,64,81",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-前往采购-设计专区-获取星券提示图"
+  },
+  {
+    "itemName": "nail_art_purchase_design_zone_week_ticket",
+    "imageName": "nail_art_purchase_design_zone_week_ticket.png",
+    "roiFront": "99,413,65,152",
+    "roiBack": "99,413,65,152",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-前往采购-设计专区-每周星券兑换图"
+  },
+  {
+    "itemName": "nail_art_purchase_design_zone_week_button",
+    "imageName": "nail_art_purchase_design_zone_week_button.png",
+    "roiFront": "530,539,139,46",
+    "roiBack": "530,539,139,46",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-前往采购-设计专区-每周星券兑换按钮"
+  },
+  {
+    "itemName": "nail_art_purchase_design_zone_week_exchange",
+    "imageName": "nail_art_purchase_design_zone_week_exchange.png",
+    "roiFront": "159,804,405,55",
+    "roiBack": "159,804,405,55",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-前往采购-设计专区-每周星券弹窗兑换按钮区域"
+  },
+  {
+    "itemName": "nail_art_shop_entrance",
+    "imageName": "nail_art_shop_entrance.png",
+    "roiFront": "60,1062,120,110",
+    "roiBack": "60,1062,120,110",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-我的店铺入口"
+  },
+  {
+    "itemName": "nail_art_shop_employment_button",
+    "imageName": "nail_art_shop_employment_button.png",
+    "roiFront": "132,660,192,51",
+    "roiBack": "132,660,192,51",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-我的店铺-雇佣店员按钮"
+  },
+  {
+    "itemName": "nail_art_shop_employment_person",
+    "imageName": "nail_art_shop_employment_person.png",
+    "roiFront": "420,833,182,54",
+    "roiBack": "420,833,182,54",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-我的店铺-雇佣海蜇按钮"
+  },
+  {
+    "itemName": "nail_art_shop_special",
+    "imageName": "nail_art_shop_special.png",
+    "roiFront": "48,884,84,71",
+    "roiBack": "48,884,84,71",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-我的店铺-特约顾客图标"
+  },
+  {
+    "itemName": "nail_art_shop_package",
+    "imageName": "nail_art_shop_package.png",
+    "roiFront": "46,1152,91,71",
+    "roiBack": "46,1152,91,71",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-我的店铺-周好评礼包图标"
+  },
+  {
+    "itemName": "nail_art_shop_package_board",
+    "imageName": "nail_art_shop_package_board.png",
+    "roiFront": "289,219,145,33",
+    "roiBack": "289,219,145,33",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "美甲-我的店铺-周好评奖励弹窗标题"
+  },
+  {
+    "itemName": "nail_art_shop_extract_button",
+    "imageName": "nail_art_shop_extract_button.png",
+    "roiFront": "501,1155,149,42",
+    "roiBack": "501,1155,149,42",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "美甲-我的店铺-提取心意币按钮"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "itemName": "welfare_task_entrance",
+    "imageName": "welfare_task_entrance.png",
+    "roiFront": "653,925,35,37",
+    "roiBack": "653,925,35,37",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利主页入口图标"
+  },
+  {
+    "itemName": "welfare_task_page",
+    "imageName": "welfare_task_page.png",
+    "roiFront": "257,53,208,54",
+    "roiBack": "257,53,208,54",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利页面标题"
+  },
+  {
+    "itemName": "welfare_task_sign_tip",
+    "imageName": "welfare_task_sign_tip.png",
+    "roiFront": "516,135,7,8",
+    "roiBack": "516,135,7,8",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利页面每日签到tab的提示"
+  },
+  {
+    "itemName": "welfare_task_sign_tab_checked",
+    "imageName": "welfare_task_sign_tab_checked.png",
+    "roiFront": "370,136,134,37",
+    "roiBack": "370,136,134,37",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利页面每日签到tab选中状态"
+  },
+  {
+    "itemName": "welfare_task_supply_tab_unchecked",
+    "imageName": "welfare_task_supply_tab_unchecked.png",
+    "roiFront": "564,136,134,37",
+    "roiBack": "564,136,134,37",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利页面方舟补给tab未选中状态"
+  },
+  {
+    "itemName": "welfare_task_supply_tab_checked",
+    "imageName": "welfare_task_supply_tab_checked.png",
+    "roiFront": "564,136,134,37",
+    "roiBack": "564,136,134,37",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利页面方舟补给tab选中状态"
+  },
+  {
+    "itemName": "welfare_task_supply_heart",
+    "imageName": "welfare_task_supply_heart.png",
+    "roiFront": "529,454,58,31",
+    "roiBack": "529,454,58,31",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利页面方舟补给页面爱心图标"
+  },
+  {
+    "itemName": "welfare_task_supply_receive_button_1",
+    "imageName": "welfare_task_supply_receive_button.png",
+    "roiFront": "481,580,161,61",
+    "roiBack": "481,580,161,61",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利页面方舟补给领取按钮"
+  },
+  {
+    "itemName": "welfare_task_supply_receive_button_2",
+    "imageName": "welfare_task_supply_receive_button.png",
+    "roiFront": "481,893,161,61",
+    "roiBack": "481,893,161,61",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "福利页面方舟补给领取按钮"
+  }
+]

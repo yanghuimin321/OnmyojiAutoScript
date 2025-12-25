@@ -1,0 +1,29 @@
+[
+  {
+    "itemName": "expend_power_page",
+    "imageName": "expend_power_page.png",
+    "roiFront": "241,11,229,64",
+    "roiBack": "241,11,229,64",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "制衣引导页面"
+  },
+  {
+    "itemName": "expend_power_target_1",
+    "imageName": "expend_power_target.png",
+    "roiFront": "281,626,26,25",
+    "roiBack": "281,626,26,25",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "制衣目标存在图标"
+  },
+  {
+    "itemName": "expend_power_target_2",
+    "imageName": "expend_power_target.png",
+    "roiFront": "596,626,26,25",
+    "roiBack": "596,626,26,25",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "制衣目标存在图标"
+  }
+]

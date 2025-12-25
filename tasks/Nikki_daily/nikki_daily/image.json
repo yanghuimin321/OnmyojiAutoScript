@@ -1,0 +1,236 @@
+[
+  {
+    "itemName": "share_button",
+    "imageName": "share_button.png",
+    "roiFront": "633,1176,54,50",
+    "roiBack": "633,1176,54,50",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "分享按钮"
+  },
+  {
+    "itemName": "exit_button",
+    "imageName": "exit_button.png",
+    "roiFront": "5,36,76,64",
+    "roiBack": "5,36,76,64",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "退出按钮"
+  },
+  {
+    "itemName": "exit_button_2",
+    "imageName": "exit_button.png",
+    "roiFront": "5,45,76,64",
+    "roiBack": "5,45,76,64",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "退出按钮(稍微偏下)"
+  },
+  {
+    "itemName": "exit_button_3",
+    "imageName": "exit_button.png",
+    "roiFront": "5,55,76,64",
+    "roiBack": "5,55,76,64",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "退出按钮(稍微偏下++)"
+  },
+  {
+    "itemName": "exit_button_4",
+    "imageName": "exit_button.png",
+    "roiFront": "5,17,76,64",
+    "roiBack": "5,17,76,64",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "退出按钮(稍微偏上)"
+  },
+  {
+    "itemName": "get_way_page",
+    "imageName": "get_way_page.png",
+    "roiFront": "297,271,130,48",
+    "roiBack": "297,271,130,48",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "获取途径弹窗页面标题"
+  },
+  {
+    "itemName": "get_way_proceed_button",
+    "imageName": "get_way_proceed_button.png",
+    "roiFront": "490,588,121,48",
+    "roiBack": "490,588,121,48",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "获取途径弹窗页面的前往按钮"
+  },
+  {
+    "itemName": "get_way_proceed_button_2",
+    "imageName": "get_way_proceed_button.png",
+    "roiFront": "490,563,121,48",
+    "roiBack": "490,563,121,48",
+    "method": "Template matching",
+    "threshold": 0.7,
+    "description": "获取途径弹窗页面的前往按钮"
+  },
+  {
+    "itemName": "get_way_proceed_survey_page",
+    "imageName": "get_way_proceed_survey_page.png",
+    "roiFront": "268,267,190,55",
+    "roiBack": "268,267,190,55",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "调查行动弹窗页面"
+  },
+  {
+    "itemName": "get_way_proceed_start_button_1",
+    "imageName": "get_way_proceed_start_button.png",
+    "roiFront": "489,898,153,48",
+    "roiBack": "489,898,153,48",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "开始故事按钮"
+  },
+  {
+    "itemName": "get_way_proceed_start_button_2",
+    "imageName": "get_way_proceed_start_button.png",
+    "roiFront": "489,820,153,48",
+    "roiBack": "489,820,153,48",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "开始故事按钮"
+  },
+  {
+    "itemName": "get_way_proceed_start_button_3",
+    "imageName": "get_way_proceed_start_button_survey.png",
+    "roiFront": "503,701,125,37",
+    "roiBack": "503,701,125,37",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "开始故事按钮"
+  },
+  {
+    "itemName": "get_way_proceed_start_button_4",
+    "imageName": "get_way_proceed_start_button.png",
+    "roiFront": "489,842,153,48",
+    "roiBack": "489,842,153,48",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "开始故事按钮"
+  },
+  {
+    "itemName": "get_way_proceed_challenge_1",
+    "imageName": "get_way_proceed_challenge.png",
+    "roiFront": "220,895,116,45",
+    "roiBack": "220,895,116,45",
+    "method": "Template matching",
+    "threshold": 0.7,
+    "description": "挑战多次按钮"
+  },
+  {
+    "itemName": "get_way_proceed_challenge_2",
+    "imageName": "get_way_proceed_challenge.png",
+    "roiFront": "220,815,116,45",
+    "roiBack": "220,815,116,45",
+    "method": "Template matching",
+    "threshold": 0.7,
+    "description": "挑战多次按钮"
+  },
+  {
+    "itemName": "get_way_proceed_challenge_3",
+    "imageName": "get_way_proceed_challenge_2.png",
+    "roiFront": "507,829,116,45",
+    "roiBack": "507,829,116,45",
+    "method": "Template matching",
+    "threshold": 0.7,
+    "description": "挑战多次按钮"
+  },
+  {
+    "itemName": "get_way_proceed_challenge_4",
+    "imageName": "get_way_proceed_challenge.png",
+    "roiFront": "220,840,116,45",
+    "roiBack": "220,840,116,45",
+    "method": "Template matching",
+    "threshold": 0.7,
+    "description": "挑战多次按钮"
+  },
+  {
+    "itemName": "collocation_process_recommend_button",
+    "imageName": "collocation_process_recommend_button.png",
+    "roiFront": "584,1181,133,45",
+    "roiBack": "584,1181,133,45",
+    "method": "Template matching",
+    "threshold": 0.7,
+    "description": "搭配页面的推荐搭配按钮"
+  },
+  {
+    "itemName": "collocation_process_next_button",
+    "imageName": "collocation_process_next_button.png",
+    "roiFront": "53,1177,188,54",
+    "roiBack": "53,1177,188,54",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配页面的下一步按钮"
+  },
+  {
+    "itemName": "collocation_process_sure_button",
+    "imageName": "collocation_process_sure_button.png",
+    "roiFront": "415,684,156,56",
+    "roiBack": "415,684,156,56",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配页面的确认按钮"
+  },
+  {
+    "itemName": "collocation_process_equip",
+    "imageName": "collocation_process_equip.png",
+    "roiFront": "541,385,133,45",
+    "roiBack": "541,385,133,45",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配页面的装备印象按钮"
+  },
+  {
+    "itemName": "collocation_process_sure",
+    "imageName": "collocation_process_sure.png",
+    "roiFront": "275,1087,169,51",
+    "roiBack": "275,1087,169,51",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "确定"
+  },
+  {
+    "itemName": "collocation_process_equip_page",
+    "imageName": "collocation_process_equip_page.png",
+    "roiFront": "289,178,142,50",
+    "roiBack": "289,178,142,50",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配页面的装备印象弹窗"
+  },
+  {
+    "itemName": "collocation_process_equip_oneclick",
+    "imageName": "collocation_process_equip_oneclick.png",
+    "roiFront": "476,1017,126,30",
+    "roiBack": "476,1017,126,30",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配页面的装备印象一键穿戴"
+  },
+  {
+    "itemName": "collocation_process_equip_sure",
+    "imageName": "collocation_process_equip_sure.png",
+    "roiFront": "415,1075,173,58",
+    "roiBack": "415,1075,173,58",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配页面的装备印象确定"
+  },
+  {
+    "itemName": "collocation_process_skip_checked",
+    "imageName": "collocation_process_skip_checked.png",
+    "roiFront": "58,1113,27,24",
+    "roiBack": "58,1113,27,24",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配页面的跳过战斗checked"
+  }
+]

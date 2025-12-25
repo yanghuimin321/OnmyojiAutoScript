@@ -1,0 +1,38 @@
+[
+  {
+    "itemName": "collocation_arena_entrance",
+    "imageName": "collocation_arena_entrance.png",
+    "roiFront": "29,409,95,138",
+    "roiBack": "29,409,95,138",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配评选赛入口图标"
+  },
+  {
+    "itemName": "collocation_arena_page",
+    "imageName": "collocation_arena_page.png",
+    "roiFront": "29,1167,102,69",
+    "roiBack": "29,1167,102,69",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配评选赛页面"
+  },
+  {
+    "itemName": "collocation_arena_button",
+    "imageName": "collocation_arena_button.png",
+    "roiFront": "574,1167,95,68",
+    "roiBack": "574,1167,95,68",
+    "method": "Template matching",
+    "threshold": 0.6,
+    "description": "我当评委按钮"
+  },
+  {
+    "itemName": "collocation_arena_vs",
+    "imageName": "collocation_arena_vs.png",
+    "roiFront": "315,1084,91,63",
+    "roiBack": "315,1084,91,63",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "搭配评选赛vs图标"
+  }
+]

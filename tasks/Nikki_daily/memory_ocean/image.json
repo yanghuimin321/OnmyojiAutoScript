@@ -1,0 +1,83 @@
+[
+  {
+    "itemName": "memory_ocean_entrance",
+    "imageName": "memory_ocean_entrance.png",
+    "roiFront": "162,991,143,76",
+    "roiBack": "162,991,143,76",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶入口图标"
+  },
+  {
+    "itemName": "memory_ocean_page",
+    "imageName": "memory_ocean_page.png",
+    "roiFront": "488,61,184,149",
+    "roiBack": "488,61,184,149",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶页面"
+  },
+  {
+    "itemName": "memory_ocean_quick_button",
+    "imageName": "memory_ocean_quick_button.png",
+    "roiFront": "33,1125,108,28",
+    "roiBack": "33,1125,108,28",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶快速挑战按钮"
+  },
+  {
+    "itemName": "memory_ocean_main_task_page",
+    "imageName": "memory_ocean_main_task_page.png",
+    "roiFront": "56,261,249,51",
+    "roiBack": "56,261,249,51",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶真我之境弹窗页面标题"
+  },
+  {
+    "itemName": "memory_ocean_main_task_skip_checked",
+    "imageName": "memory_ocean_main_task_skip_checked.png",
+    "roiFront": "506,978,32,31",
+    "roiBack": "506,978,32,31",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶真我之境弹窗跳过战斗勾选"
+  },
+  {
+    "itemName": "memory_ocean_main_task_start_button",
+    "imageName": "memory_ocean_main_task_start_button.png",
+    "roiFront": "271,961,180,60",
+    "roiBack": "271,961,180,60",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶真我之境弹窗开始挑战按钮"
+  },
+  {
+    "itemName": "memory_ocean_main_task",
+    "imageName": "memory_ocean_main_task.png",
+    "roiFront": "403,604,88,89",
+    "roiBack": "403,604,88,89",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶真我之境打开图标"
+  },
+  {
+    "itemName": "memory_ocean_sub_task_page",
+    "imageName": "memory_ocean_sub_task_page.png",
+    "roiFront": "65,344,139,51",
+    "roiBack": "56,261,249,51",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶境遇弹窗页面标题"
+  },
+  {
+    "itemName": "memory_ocean_sub_task_start_button",
+    "imageName": "memory_ocean_sub_task_start_button.png",
+    "roiFront": "466,875,173,60",
+    "roiBack": "466,875,173,60",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "忆海心阶境遇弹窗开始挑战按钮"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "itemName": "heart_gate_entrance_1",
+    "imageName": "heart_gate_entrance.png",
+    "roiFront": "33,493,44,38",
+    "roiBack": "33,493,44,38",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "心之门主页入口图标"
+  },
+  {
+    "itemName": "heart_gate_entrance_2",
+    "imageName": "heart_gate_entrance.png",
+    "roiFront": "33,276,44,38",
+    "roiBack": "33,276,44,38",
+    "method": "Template matching",
+    "threshold": 0.6,
+    "description": "心之门主页入口图标"
+  },
+  {
+    "itemName": "heart_gate_entrance_3",
+    "imageName": "heart_gate_entrance.png",
+    "roiFront": "33,378,44,38",
+    "roiBack": "33,378,44,38",
+    "method": "Template matching",
+    "threshold": 0.6,
+    "description": "心之门主页入口图标"
+  },
+  {
+    "itemName": "heart_gate_entrance_4",
+    "imageName": "heart_gate_entrance.png",
+    "roiFront": "33,605,44,38",
+    "roiBack": "33,605,44,38",
+    "method": "Template matching",
+    "threshold": 0.6,
+    "description": "心之门主页入口图标"
+  },
+  {
+    "itemName": "heart_gate_magical_induce",
+    "imageName": "heart_gate_magical_induce.png",
+    "roiFront": "78,1073,246,54",
+    "roiBack": "78,1073,246,54",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "幻之海免费感应一次按钮"
+  },
+  {
+    "itemName": "heart_gate_puzzle_induce",
+    "imageName": "heart_gate_puzzle_induce.png",
+    "roiFront": "41,1074,172,57",
+    "roiBack": "41,1074,172,57",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "谜之海感应一次按钮"
+  }
+]

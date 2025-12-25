@@ -1,0 +1,44 @@
+[
+  {
+    "itemName": "back_home_entrance",
+    "roiFront": "501,1139,74,91",
+    "roiBack": "501,1139,74,91",
+    "description": "回家入口点击区域"
+  },
+  {
+    "itemName": "back_home_notebook_invalid_area",
+    "roiFront": "184,4,173,47",
+    "roiBack": "184,4,173,47",
+    "description": "暖暖手账打开后的无效区域"
+  },
+  {
+    "itemName": "back_home_purchase_movie",
+    "roiFront": "86,602,133,139",
+    "roiBack": "86,602,133,139",
+    "description": "日常采购中小物-电影票的点击区域"
+  },
+  {
+    "itemName": "back_home_purchase_draw",
+    "roiFront": "507,601,133,139",
+    "roiBack": "507,601,133,139",
+    "description": "日常采购中小物-缤纷调色盘的点击区域"
+  },
+  {
+    "itemName": "back_home_purchase_umbrella",
+    "roiFront": "285,827,152,66",
+    "roiBack": "285,827,152,66",
+    "description": "日常采购中小物-晴雨伞的点击区域"
+  },
+  {
+    "itemName": "back_home_purchase_tab_snack",
+    "roiFront": "377,281,90,37",
+    "roiBack": "377,281,90,37",
+    "description": "日常采购零食栏点击区域"
+  },
+  {
+    "itemName": "back_home_purchase_snack_chips",
+    "roiFront": "86,602,133,139",
+    "roiBack": "86,602,133,139",
+    "description": "日常采购中零食-薯片的点击区域"
+  }
+]

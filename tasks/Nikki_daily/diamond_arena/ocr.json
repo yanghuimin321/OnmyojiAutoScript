@@ -1,0 +1,47 @@
+[
+  {
+    "itemName": "diamond_arena_num",
+    "roiFront": "352,677,83,23",
+    "roiBack": "352,677,83,23",
+    "mode": "Digit",
+    "method": "Default",
+    "keyword": "",
+    "description": "我的竞技场战力数据"
+  },
+  {
+    "itemName": "diamond_arena_remain",
+    "roiFront": "597,1103,56,25",
+    "roiBack": "597,1103,56,25",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "挑战剩余次数"
+  },
+  {
+    "itemName": "diamond_arena_other_num_1",
+    "roiFront": "132,1050,90,22",
+    "roiBack": "132,1050,90,22",
+    "mode": "Digit",
+    "method": "Default",
+    "keyword": "",
+    "description": "他人战力"
+  },
+  {
+    "itemName": "diamond_arena_other_num_2",
+    "roiFront": "372,1050,90,22",
+    "roiBack": "372,1050,90,22",
+    "mode": "Digit",
+    "method": "Default",
+    "keyword": "",
+    "description": "他人战力"
+  },
+  {
+    "itemName": "diamond_arena_other_num_3",
+    "roiFront": "612,1050,90,22",
+    "roiBack": "612,1050,90,22",
+    "mode": "Digit",
+    "method": "Default",
+    "keyword": "",
+    "description": "他人战力"
+  }
+]

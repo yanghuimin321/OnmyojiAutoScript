@@ -1,0 +1,56 @@
+[
+  {
+    "itemName": "daily_reward_entrance",
+    "imageName": "daily_reward_entrance.png",
+    "roiFront": "653,831,35,37",
+    "roiBack": "653,831,35,37",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "任务主页入口图标"
+  },
+  {
+    "itemName": "daily_reward_today_tab_checked",
+    "imageName": "daily_reward_today_tab_checked.png",
+    "roiFront": "54,115,123,43",
+    "roiBack": "54,115,123,43",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "任务-今日日程tab选中状态"
+  },
+  {
+    "itemName": "daily_reward_one_click",
+    "imageName": "daily_reward_one_click.png",
+    "roiFront": "284,1208,151,51",
+    "roiBack": "284,1208,151,51",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "任务-一键领取按钮"
+  },
+  {
+    "itemName": "daily_reward_package_open",
+    "imageName": "daily_reward_package_open.png",
+    "roiFront": "629,526,66,42",
+    "roiBack": "629,526,66,42",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "任务中奖励被领取后的图标"
+  },
+  {
+    "itemName": "daily_reward_fashion_tip",
+    "imageName": "daily_reward_fashion_tip.png",
+    "roiFront": "648,621,21,21",
+    "roiBack": "648,621,21,21",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "时尚任务任务提示"
+  },
+  {
+    "itemName": "daily_reward_fashion_tab_checked",
+    "imageName": "daily_reward_fashion_tab_checked.png",
+    "roiFront": "439,639,200,44",
+    "roiBack": "439,639,200,44",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "时尚任务tab的选中状态"
+  }
+]

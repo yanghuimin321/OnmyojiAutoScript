@@ -1,0 +1,20 @@
+[
+  {
+    "itemName": "back_home_entrance_text",
+    "roiFront": "519,1205,42,24",
+    "roiBack": "519,1205,42,24",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "回家",
+    "description": "主页回家文本"
+  },
+  {
+    "itemName": "back_home_purchase_price",
+    "roiFront": "482,969,66,35",
+    "roiBack": "482,969,66,35",
+    "mode": "Digit",
+    "method": "Default",
+    "keyword": "",
+    "description": "日常采购购买图标上价格显示"
+  }
+]

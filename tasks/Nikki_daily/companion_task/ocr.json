@@ -1,0 +1,11 @@
+[
+  {
+    "itemName": "companion_task_num",
+    "roiFront": "583,1080,19,22",
+    "roiBack": "583,1080,19,22",
+    "mode": "Digit",
+    "method": "Default",
+    "keyword": "",
+    "description": "快速组队次数"
+  }
+]

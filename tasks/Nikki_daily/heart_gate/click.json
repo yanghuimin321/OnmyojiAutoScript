@@ -1,0 +1,14 @@
+[
+  {
+    "itemName": "heart_gate_invalid_area",
+    "roiFront": "28,1197,172,62",
+    "roiBack": "28,1197,172,62",
+    "description": "心之门无效的点击区域"
+  },
+  {
+    "itemName": "heart_gate_switch",
+    "roiFront": "650,489,55,77",
+    "roiBack": "650,489,55,77",
+    "description": "心之门切换按钮"
+  }
+]

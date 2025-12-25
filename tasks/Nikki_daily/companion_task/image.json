@@ -1,0 +1,137 @@
+[
+  {
+    "itemName": "companion_task_tab_unchecked",
+    "imageName": "companion_task_tab_unchecked.png",
+    "roiFront": "443,1158,95,71",
+    "roiBack": "443,1158,95,71",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "结伴tab未被选中"
+  },
+  {
+    "itemName": "companion_task_tab_checked",
+    "imageName": "companion_task_tab_checked.png",
+    "roiFront": "443,1158,95,71",
+    "roiBack": "443,1158,95,71",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "结伴tab被选中"
+  },
+  {
+    "itemName": "companion_task_time",
+    "imageName": "companion_task_time.png",
+    "roiFront": "197,338,148,52",
+    "roiBack": "197,338,148,52",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "时光钟表铺"
+  },
+  {
+    "itemName": "companion_task_time_level_unchecked",
+    "imageName": "companion_task_time_level_unchecked.png",
+    "roiFront": "551,738,89,87",
+    "roiBack": "551,738,89,87",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "时光钟表铺难度unchecked"
+  },
+  {
+    "itemName": "companion_task_time_level_checked",
+    "imageName": "companion_task_time_level_checked.png",
+    "roiFront": "551,738,89,87",
+    "roiBack": "551,738,89,87",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "时光钟表铺难度checked"
+  },
+  {
+    "itemName": "companion_task_curtain",
+    "imageName": "companion_task_curtain.png",
+    "roiFront": "343,525,148,52",
+    "roiBack": "343,525,148,52",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "不落的帷幕"
+  },
+  {
+    "itemName": "companion_task_curtain_page",
+    "imageName": "companion_task_curtain_page.png",
+    "roiFront": "382,85,278,52",
+    "roiBack": "382,85,278,52",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "不落的帷幕选择界面"
+  },
+  {
+    "itemName": "companion_task_curtain_level_checked",
+    "imageName": "companion_task_curtain_level_checked.png",
+    "roiFront": "569,744,84,64",
+    "roiBack": "569,744,84,64",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "不落的帷幕难度checked"
+  },
+  {
+    "itemName": "companion_task_curtain_level_unchecked",
+    "imageName": "companion_task_curtain_level_unchecked.png",
+    "roiFront": "569,744,84,64",
+    "roiBack": "569,744,84,64",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "不落的帷幕难度unchecked"
+  },
+  {
+    "itemName": "companion_task_travel",
+    "imageName": "companion_task_travel.png",
+    "roiFront": "328,751,148,52",
+    "roiBack": "328,751,148,52",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "印象旅航"
+  },
+  {
+    "itemName": "companion_task_travel_level_checked",
+    "imageName": "companion_task_travel_level_checked.png",
+    "roiFront": "556,755,81,81",
+    "roiBack": "556,755,81,81",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "印象旅航难度checked"
+  },
+  {
+    "itemName": "companion_task_travel_level_unchecked",
+    "imageName": "companion_task_travel_level_unchecked.png",
+    "roiFront": "556,755,81,81",
+    "roiBack": "556,755,81,81",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "印象旅航难度unchecked"
+  },
+  {
+    "itemName": "companion_task_alone_button",
+    "imageName": "companion_task_alone_button.png",
+    "roiFront": "55,1139,143,48",
+    "roiBack": "55,1139,143,48",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "独自登场按钮"
+  },
+  {
+    "itemName": "companion_task_tab_level_checked",
+    "imageName": "companion_task_tab_level_checked.png",
+    "roiFront": "380,694,115,48",
+    "roiBack": "380,694,115,48",
+    "method": "Template matching",
+    "threshold": 0.6,
+    "description": "tab难度checked"
+  },
+  {
+    "itemName": "companion_task_tab_level_unchecked",
+    "imageName": "companion_task_tab_level_unchecked.png",
+    "roiFront": "380,694,115,48",
+    "roiBack": "380,694,115,48",
+    "method": "Template matching",
+    "threshold": 0.6,
+    "description": "tab难度checked"
+  }
+]

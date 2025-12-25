@@ -1,0 +1,134 @@
+[
+  {
+    "itemName": "welfare_task_sign_tab_area",
+    "roiFront": "370,136,134,37",
+    "roiBack": "370,136,134,37",
+    "description": "福利页面每日签到tab点击区域"
+  },
+  {
+    "itemName": "welfare_task_resign_area_1",
+    "roiFront": "159,487,63,41",
+    "roiBack": "159,487,63,41",
+    "description": "福利页面每日签到补签卡区域"
+  },
+  {
+    "itemName": "welfare_task_resign_area_2",
+    "roiFront": "270,487,63,41",
+    "roiBack": "270,487,63,41",
+    "description": "福利页面每日签到补签卡区域"
+  },
+  {
+    "itemName": "welfare_task_resign_area_3",
+    "roiFront": "382,487,63,41",
+    "roiBack": "382,487,63,41",
+    "description": "福利页面每日签到补签卡区域"
+  },
+  {
+    "itemName": "welfare_task_resign_area_4",
+    "roiFront": "495,487,63,41",
+    "roiBack": "495,487,63,41",
+    "description": "福利页面每日签到补签卡区域"
+  },
+  {
+    "itemName": "welfare_task_resign_area_5",
+    "roiFront": "606,487,63,41",
+    "roiBack": "606,487,63,41",
+    "description": "福利页面每日签到补签卡区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_1",
+    "roiFront": "48,605,113,132",
+    "roiBack": "48,605,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_2",
+    "roiFront": "217,605,113,132",
+    "roiBack": "217,605,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_3",
+    "roiFront": "386,605,113,132",
+    "roiBack": "386,605,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_4",
+    "roiFront": "555,605,113,132",
+    "roiBack": "555,605,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_5",
+    "roiFront": "48,670,113,132",
+    "roiBack": "48,670,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_6",
+    "roiFront": "217,670,113,132",
+    "roiBack": "217,670,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_7",
+    "roiFront": "386,670,113,132",
+    "roiBack": "386,670,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_8",
+    "roiFront": "555,670,113,132",
+    "roiBack": "555,670,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_9",
+    "roiFront": "48,867,113,132",
+    "roiBack": "48,867,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_10",
+    "roiFront": "217,867,113,132",
+    "roiBack": "217,867,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_11",
+    "roiFront": "386,867,113,132",
+    "roiBack": "386,867,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_12",
+    "roiFront": "555,867,113,132",
+    "roiBack": "555,867,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_13",
+    "roiFront": "48,1061,113,132",
+    "roiBack": "48,1061,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_14",
+    "roiFront": "217,1061,113,132",
+    "roiBack": "217,1061,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_15",
+    "roiFront": "386,1061,113,132",
+    "roiBack": "386,1061,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  },
+  {
+    "itemName": "welfare_task_sign_area_16",
+    "roiFront": "555,1061,113,132",
+    "roiBack": "555,1061,113,132",
+    "description": "福利页面每日签到可能的签到区域"
+  }
+]

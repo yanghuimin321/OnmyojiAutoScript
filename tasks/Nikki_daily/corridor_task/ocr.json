@@ -1,0 +1,38 @@
+[
+  {
+    "itemName": "corridor_task_pop_text_1",
+    "roiFront": "555,426,71,25",
+    "roiBack": "555,426,71,25",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "期数列表中识别期数信息"
+  },
+  {
+    "itemName": "corridor_task_pop_text_2",
+    "roiFront": "555,662,71,25",
+    "roiBack": "555,662,71,25",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "期数列表中识别期数信息"
+  },
+  {
+    "itemName": "corridor_task_pop_text_3",
+    "roiFront": "555,898,71,25",
+    "roiBack": "555,898,71,25",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "期数列表中识别期数信息"
+  },
+  {
+    "itemName": "corridor_task_pop_text_4",
+    "roiFront": "479,281,113,33",
+    "roiBack": "479,281,113,33",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "拉到底部时，识别倒数第四个期数名称"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "itemName": "diamond_arena_entrance",
+    "imageName": "diamond_arena_entrance.png",
+    "roiFront": "399,638,143,76",
+    "roiBack": "399,638,143,76",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "钻石竞技场入口图标"
+  },
+  {
+    "itemName": "diamond_arena_season",
+    "imageName": "diamond_arena_season.png",
+    "roiFront": "270,922,176,60",
+    "roiBack": "270,922,176,60",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "新赛季开始确认按钮"
+  },
+  {
+    "itemName": "diamond_arena_week",
+    "imageName": "diamond_arena_week.png",
+    "roiFront": "214,910,291,51",
+    "roiBack": "214,910,291,51",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "新一周开始确认按钮"
+  },
+  {
+    "itemName": "diamond_arena_collocation",
+    "imageName": "diamond_arena_collocation.png",
+    "roiFront": "502,576,160,59",
+    "roiBack": "502,576,160,59",
+    "method": "Template matching",
+    "threshold": 0.99,
+    "description": "我的搭配按钮"
+  },
+  {
+    "itemName": "diamond_arena_ranked",
+    "imageName": "diamond_arena_ranked.png",
+    "roiFront": "590,188,125,53",
+    "roiBack": "590,188,125,53",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "闪耀之阶按钮"
+  },
+  {
+    "itemName": "diamond_arena_skip_checked",
+    "imageName": "diamond_arena_skip_checked.png",
+    "roiFront": "562,516,23,20",
+    "roiBack": "562,516,23,20",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "快速挑战勾选状态"
+  },
+  {
+    "itemName": "diamond_arena_challenge_page",
+    "imageName": "diamond_arena_challenge_page.png",
+    "roiFront": "299,239,126,49",
+    "roiBack": "299,239,126,49",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "挑战后结果弹窗"
+  },
+  {
+    "itemName": "diamond_arena_other_sure",
+    "imageName": "diamond_arena_other_sure.png",
+    "roiFront": "282,684,158,57",
+    "roiBack": "282,684,158,57",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "对方玩家名次变化确认按钮"
+  }
+]

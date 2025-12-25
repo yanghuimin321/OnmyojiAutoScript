@@ -1,0 +1,32 @@
+[
+  {
+    "itemName": "diamond_arena_skip",
+    "roiFront": "562,516,23,20",
+    "roiBack": "562,516,23,20",
+    "description": "快速挑战点击区域"
+  },
+  {
+    "itemName": "diamond_arena_change",
+    "roiFront": "157,1109,86,36",
+    "roiBack": "157,1109,86,36",
+    "description": "换一批按钮点击区域"
+  },
+  {
+    "itemName": "diamond_arena_challenge_1",
+    "roiFront": "38,823,167,100",
+    "roiBack": "38,823,167,100",
+    "description": "挑战点击区域"
+  },
+  {
+    "itemName": "diamond_arena_challenge_2",
+    "roiFront": "276,823,167,100",
+    "roiBack": "276,823,167,100",
+    "description": "挑战点击区域"
+  },
+  {
+    "itemName": "diamond_arena_challenge_3",
+    "roiFront": "514,823,167,100",
+    "roiBack": "514,823,167,100",
+    "description": "挑战点击区域"
+  }
+]

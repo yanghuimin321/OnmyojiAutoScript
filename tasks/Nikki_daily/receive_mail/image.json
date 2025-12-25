@@ -1,0 +1,29 @@
+[
+  {
+    "itemName": "receive_mail_entrance",
+    "imageName": "receive_mail_entrance.png",
+    "roiFront": "657,373,38,42",
+    "roiBack": "657,373,38,42",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "邮件主页入口图标"
+  },
+  {
+    "itemName": "receive_mail_page",
+    "imageName": "receive_mail_page.png",
+    "roiFront": "288,252,145,48",
+    "roiBack": "288,252,145,48",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "邮件弹窗"
+  },
+  {
+    "itemName": "receive_mail_all_receive",
+    "imageName": "receive_mail_all_receive.png",
+    "roiFront": "421,953,162,55",
+    "roiBack": "421,953,162,55",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "全部领取按钮"
+  }
+]

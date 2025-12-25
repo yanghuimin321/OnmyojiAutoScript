@@ -1,0 +1,29 @@
+[
+  {
+    "itemName": "union_task_mission_count",
+    "roiFront": "152,1240,39,24",
+    "roiBack": "152,1240,39,24",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "执行次数"
+  },
+  {
+    "itemName": "union_task_shop_count",
+    "roiFront": "636,615,36,25",
+    "roiBack": "636,615,36,25",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "幻之券兑换数量"
+  },
+  {
+    "itemName": "union_task_shop_num",
+    "roiFront": "382,661,16,23",
+    "roiBack": "382,661,16,23",
+    "mode": "Digit",
+    "method": "Default",
+    "keyword": "",
+    "description": "幻之券兑换数"
+  }
+]

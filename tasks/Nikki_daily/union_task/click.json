@@ -1,0 +1,20 @@
+[
+  {
+    "itemName": "union_task_mission_run_repeat",
+    "roiFront": "244,1160,119,48",
+    "roiBack": "244,1160,119,48",
+    "description": "联盟任务机密执行多次按钮区域"
+  },
+  {
+    "itemName": "union_task_shop_exchange",
+    "roiFront": "542,651,139,37",
+    "roiBack": "542,651,139,37",
+    "description": "联盟商店幻之券点击按钮"
+  },
+  {
+    "itemName": "union_task_shop_max_button",
+    "roiFront": "510,662,35,24",
+    "roiBack": "510,662,35,24",
+    "description": "联盟商店幻之券max按钮"
+  }
+]

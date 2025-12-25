@@ -1,0 +1,74 @@
+[
+  {
+    "itemName": "start_page_post",
+    "imageName": "start_page_post.png",
+    "roiFront": "326,988,68,62",
+    "roiBack": "326,988,68,62",
+    "method": "Template matching",
+    "threshold": 0.6,
+    "description": "开始界面公告关闭"
+  },
+  {
+    "itemName": "main_page_power",
+    "imageName": "main_page_power.png",
+    "roiFront": "129,13,20,18",
+    "roiBack": "129,13,20,18",
+    "method": "Template matching",
+    "threshold": 0.4,
+    "description": "主页信息栏爱心图标"
+  },
+  {
+    "itemName": "main_page_post",
+    "imageName": "main_page_post.png",
+    "roiFront": "38,896,30,32",
+    "roiBack": "38,896,30,32",
+    "method": "Template matching",
+    "threshold": 0.6,
+    "description": "主页公告"
+  },
+  {
+    "itemName": "update_verify",
+    "imageName": "update_verify.png",
+    "roiFront": "376,694,196,56",
+    "roiBack": "376,694,196,56",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "更新确定按钮"
+  },
+  {
+    "itemName": "age_remind",
+    "imageName": "age_remind.png",
+    "roiFront": "648,1196,60,62",
+    "roiBack": "648,1196,60,62",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "年龄提示"
+  },
+  {
+    "itemName": "post_uncheck",
+    "imageName": "post_uncheck.png",
+    "roiFront": "519,1022,32,27",
+    "roiBack": "519,1022,32,27",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "公告提示按钮未勾选"
+  },
+  {
+    "itemName": "post_check",
+    "imageName": "post_check.png",
+    "roiFront": "519,1022,32,27",
+    "roiBack": "519,1022,32,27",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "公告提示按钮勾选"
+  },
+  {
+    "itemName": "red_envelope",
+    "imageName": "red_envelope.png",
+    "roiFront": "39,762,38,33",
+    "roiBack":  "39,762,38,33",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "红包图标"
+  }
+]

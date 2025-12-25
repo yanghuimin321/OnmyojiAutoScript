@@ -1,0 +1,9 @@
+[
+  {
+    "itemName": "corridor_task_swipe",
+    "roiFront": "98,972,517,63",
+    "roiBack": "98,275,517,63",
+    "mode": "default",
+    "description": "向上滑动tab内容"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "itemName": "back_home_page",
+    "imageName": "back_home_page.png",
+    "roiFront": "20,170,34,35",
+    "roiBack": "20,170,34,35",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "回家页面"
+  },
+  {
+    "itemName": "back_home_cancel_tip",
+    "imageName": "back_home_cancel_tip.png",
+    "roiFront": "143,684,166,57",
+    "roiBack": "143,684,166,57",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "进入回家界面后，提示活力值满去采购的框的取消按钮"
+  },
+  {
+    "itemName": "back_home_notebook",
+    "imageName": "back_home_notebook.png",
+    "roiFront": "642,600,41,59",
+    "roiBack": "642,600,41,59",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "暖暖手账图标"
+  },
+  {
+    "itemName": "back_home_notebook_open",
+    "imageName": "back_home_notebook_open.png",
+    "roiFront": "539,592,153,64",
+    "roiBack": "539,592,153,64",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "暖暖手账打开按钮图标"
+  },
+  {
+    "itemName": "back_home_purchase",
+    "imageName": "back_home_purchase.png",
+    "roiFront": "640,500,42,60",
+    "roiBack": "640,500,42,60",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "日常采购图标"
+  },
+  {
+    "itemName": "back_home_purchase_buy",
+    "imageName": "back_home_purchase_buy.png",
+    "roiFront": "542,957,92,55",
+    "roiBack": "542,957,92,55",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "采购下的购买图标"
+  },
+  {
+    "itemName": "back_home_purchase_snack_checked",
+    "imageName": "back_home_purchase_snack_checked.png",
+    "roiFront": "377,281,90,37",
+    "roiBack": "377,281,90,37",
+    "method": "Template matching",
+    "threshold": 0.99,
+    "description": "日常采购零食栏选中状态"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "itemName": "expend_power_entrance",
+    "roiFront": "423,95,226,109",
+    "roiBack": "423,95,226,109",
+    "description": "制衣引导入口点击区域"
+  },
+  {
+    "itemName": "expend_power_target_click_1",
+    "roiFront": "45,753,251,316",
+    "roiBack": "45,753,251,316",
+    "description": "制衣目标点击区域"
+  },
+  {
+    "itemName": "expend_power_target_click_2",
+    "roiFront": "360,753,251,316",
+    "roiBack": "360,753,251,316",
+    "description": "制衣目标点击区域"
+  },
+  {
+    "itemName": "expend_power_rare_make_1",
+    "roiFront": "583,511,84,75",
+    "roiBack": "583,511,84,75",
+    "description": "稀有-套装制作-材料点击区域"
+  },
+  {
+    "itemName": "expend_power_rare_make_2",
+    "roiFront": "583,668,84,75",
+    "roiBack": "583,668,84,75",
+    "description": "稀有-套装制作-材料点击区域"
+  },
+  {
+    "itemName": "expend_power_rare_wake_1",
+    "roiFront": "71,956,116,93",
+    "roiBack": "71,956,116,93",
+    "description": "稀有-影之召唤-材料点击区域"
+  },
+  {
+    "itemName": "expend_power_rare_wake_2",
+    "roiFront": "300,956,116,93",
+    "roiBack": "300,956,116,93",
+    "description": "稀有-影之召唤-材料点击区域"
+  },
+  {
+    "itemName": "expend_power_rare_wake_3",
+    "roiFront": "529,956,116,93",
+    "roiBack": "529,956,116,93",
+    "description": "稀有-影之召唤-材料点击区域"
+  },
+  {
+    "itemName": "expend_power_shine_make",
+    "roiFront": "438,668,84,75",
+    "roiBack": "438,668,84,75",
+    "description": "闪耀-套装制作-材料点击区域"
+  },
+  {
+    "itemName": "expend_power_shine_wake_1",
+    "roiFront": "43,956,116,93",
+    "roiBack": "43,956,116,93",
+    "description": "闪耀-影之召唤-材料点击区域"
+  },
+  {
+    "itemName": "expend_power_shine_wake_2",
+    "roiFront": "215,956,116,93",
+    "roiBack": "215,956,116,93",
+    "description": "闪耀-影之召唤-材料点击区域"
+  }
+]

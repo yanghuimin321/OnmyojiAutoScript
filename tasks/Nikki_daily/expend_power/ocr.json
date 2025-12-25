@@ -1,0 +1,101 @@
+[
+  {
+    "itemName": "expend_power_entrance_text",
+    "roiFront": "479,173,102,25",
+    "roiBack": "479,173,102,25",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "制衣引导",
+    "description": "制衣引导入口文本"
+  },
+  {
+    "itemName": "expend_power_rarity",
+    "roiFront": "602,90,106,71",
+    "roiBack": "602,90,106,71",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "判断稀有度"
+  },
+  {
+    "itemName": "expend_power_rarity2",
+    "roiFront": "602,179,106,71",
+    "roiBack": "602,179,106,71",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "",
+    "description": "判断稀有度2"
+  },
+  {
+    "itemName": "expend_power_rare_make_1",
+    "roiFront": "629,482,64,22",
+    "roiBack": "629,482,64,22",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "稀有-套装制作-材料数量"
+  },
+  {
+    "itemName": "expend_power_rare_make_2",
+    "roiFront": "629,639,55,22",
+    "roiBack": "629,639,55,22",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "稀有-套装制作-材料数量"
+  },
+  {
+    "itemName": "expend_power_rare_wake_1",
+    "roiFront": "149,922,65,23",
+    "roiBack": "149,922,65,23",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "稀有-影之唤醒-材料数量"
+  },
+  {
+    "itemName": "expend_power_rare_wake_2",
+    "roiFront": "378,922,65,23",
+    "roiBack": "378,922,65,23",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "稀有-影之唤醒-材料数量"
+  },
+  {
+    "itemName": "expend_power_rare_wake_3",
+    "roiFront": "607,922,65,23",
+    "roiBack": "607,922,65,23",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "稀有-影之唤醒-材料数量"
+  },
+  {
+    "itemName": "expend_power_shine_make",
+    "roiFront": "486,639,64,22",
+    "roiBack": "492,639,64,22",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "闪耀-套装制作-材料数量"
+  },
+  {
+    "itemName": "expend_power_shine_wake_1",
+    "roiFront": "105,922,95,26",
+    "roiBack": "105,922,95,26",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "闪耀-影之唤醒-材料数量"
+  },
+  {
+    "itemName": "expend_power_shine_wake_2",
+    "roiFront": "278,922,95,26",
+    "roiBack": "278,922,95,26",
+    "mode": "DigitCounter",
+    "method": "Default",
+    "keyword": "",
+    "description": "闪耀-影之唤醒-材料数量"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "itemName": "design_center_entrance",
+    "roiFront": "46,1139,77,90",
+    "roiBack": "46,1139,77,90",
+    "description": "设计中心入口点击区域"
+  },
+  {
+    "itemName": "start_journey_entrance",
+    "roiFront": "275,1139,77,90",
+    "roiBack": "275,1139,77,90",
+    "description": "开始旅程入口点击区域"
+  },
+  {
+    "itemName": "collocation_process_skip_area",
+    "roiFront": "58,1113,27,24",
+    "roiBack": "58,1113,27,24",
+    "description": "搭配页面的跳过战斗点击区域"
+  }
+]

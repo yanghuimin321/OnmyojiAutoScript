@@ -1,0 +1,9 @@
+[
+  {
+    "itemName": "get_way_proceed_survey_swipe",
+    "roiFront": "167,893,250,72",
+    "roiBack": "167,300,250,72",
+    "mode": "default",
+    "description": "调查行动向上滑动内容"
+  }
+]

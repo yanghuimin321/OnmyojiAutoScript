@@ -1,0 +1,20 @@
+[
+  {
+    "itemName": "login_enter_game",
+    "roiFront": "243,1041,246,36",
+    "roiBack": "243,1041,246,36",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "点击开始",
+    "description": "登录页点击开始进入游戏"
+  },
+  {
+    "itemName": "post_tips",
+    "roiFront": "568,1023,125,24",
+    "roiBack": "568,1023,125,24",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "今日不再提示",
+    "description": "主页公告提示文本"
+  }
+]

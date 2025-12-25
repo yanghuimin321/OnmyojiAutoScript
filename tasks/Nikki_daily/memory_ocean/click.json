@@ -1,0 +1,44 @@
+[
+  {
+    "itemName": "memory_ocean_main_task",
+    "roiFront": "403,604,88,89",
+    "roiBack": "403,604,88,89",
+    "description": "真我之境的点击区域"
+  },
+  {
+    "itemName": "memory_ocean_main_task_collocation_1",
+    "roiFront": "99,723,109,82",
+    "roiBack": "99,723,109,82",
+    "description": "真我之境开始搭配点击区域"
+  },
+  {
+    "itemName": "memory_ocean_main_task_collocation_2",
+    "roiFront": "303,723,109,82",
+    "roiBack": "303,723,109,82",
+    "description": "真我之境开始搭配点击区域"
+  },
+  {
+    "itemName": "memory_ocean_main_task_collocation_3",
+    "roiFront": "507,723,109,82",
+    "roiBack": "507,723,109,82",
+    "description": "真我之境开始搭配点击区域"
+  },
+  {
+    "itemName": "memory_ocean_main_task_skip",
+    "roiFront": "506,978,32,31",
+    "roiBack": "506,978,32,31",
+    "description": "忆海心阶真我之境弹窗跳过战斗点击区域"
+  },
+  {
+    "itemName": "memory_ocean_sub_task_1",
+    "roiFront": "165,703,81,64",
+    "roiBack": "165,703,81,64",
+    "description": "境遇1的点击区域"
+  },
+  {
+    "itemName": "memory_ocean_sub_task_2",
+    "roiFront": "363,880,81,64",
+    "roiBack": "363,880,81,64",
+    "description": "境遇3的点击区域"
+  }
+]

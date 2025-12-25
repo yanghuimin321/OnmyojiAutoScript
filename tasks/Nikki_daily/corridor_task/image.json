@@ -1,0 +1,74 @@
+[
+  {
+    "itemName": "corridor_task_entrance",
+    "imageName": "corridor_task_entrance.png",
+    "roiFront": "316,837,143,76",
+    "roiBack": "316,837,143,76",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "时空回廊入口图标"
+  },
+  {
+    "itemName": "corridor_task_exchange_1",
+    "imageName": "corridor_task_exchange_1.png",
+    "roiFront": "593,186,124,38",
+    "roiBack": "593,186,124,38",
+    "method": "Template matching",
+    "threshold": 0.7,
+    "description": "切换章节"
+  },
+  {
+    "itemName": "corridor_task_exchange_2",
+    "imageName": "corridor_task_exchange_2.png",
+    "roiFront": "593,186,124,38",
+    "roiBack": "593,186,124,38",
+    "method": "Template matching",
+    "threshold": 0.7,
+    "description": "切换期数"
+  },
+  {
+    "itemName": "corridor_task_pop_page",
+    "imageName": "corridor_task_pop_page.png",
+    "roiFront": "283,202,154,41",
+    "roiBack": "283,202,154,41",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "切换期数弹窗标题"
+  },
+  {
+    "itemName": "corridor_task_share_button",
+    "imageName": "corridor_task_share_button.png",
+    "roiFront": "44,799,50,46",
+    "roiBack": "44,799,50,46",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "第一期分享按钮"
+  },
+  {
+    "itemName": "corridor_task_share_weixin",
+    "imageName": "corridor_task_share_weixin.png",
+    "roiFront": "201,1195,46,42",
+    "roiBack": "201,1195,46,42",
+    "method": "Template matching",
+    "threshold": 0.8,
+    "description": "分享微信按钮"
+  },
+  {
+    "itemName": "corridor_task_make_tab_checked",
+    "imageName": "corridor_task_make_tab_checked.png",
+    "roiFront": "214,109,132,42",
+    "roiBack": "214,109,132,42",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "套装制作tab选中状态"
+  },
+  {
+    "itemName": "corridor_task_wake_tab_checked",
+    "imageName": "corridor_task_wake_tab_checked.png",
+    "roiFront": "382,107,129,44",
+    "roiBack": "382,107,129,44",
+    "method": "Template matching",
+    "threshold": 0.9,
+    "description": "影之唤醒tab选中状态"
+  }
+]
