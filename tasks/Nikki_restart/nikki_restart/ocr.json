@@ -1,8 +1,8 @@
 [
   {
     "itemName": "login_enter_game",
-    "roiFront": "243,1041,246,36",
-    "roiBack": "243,1041,246,36",
+    "roiFront": "243,1081,246,36",
+    "roiBack": "243,1081,246,36",
     "mode": "Single",
     "method": "Default",
     "keyword": "点击开始",

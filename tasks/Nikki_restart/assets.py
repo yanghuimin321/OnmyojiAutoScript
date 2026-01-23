@@ -36,7 +36,7 @@ class Nikki_restartAssets:
 
 	# Ocr Rule Assets
 	# 登录页点击开始进入游戏 
-	O_LOGIN_ENTER_GAME = RuleOcr(roi=(243,1041,246,36), area=(243,1041,246,36), mode="Single", method="Default", keyword="点击开始", name="login_enter_game")
+	O_LOGIN_ENTER_GAME = RuleOcr(roi=(243,1081,246,36), area=(243,1081,246,36), mode="Single", method="Default", keyword="点击开始", name="login_enter_game")
 	# 主页公告提示文本 
 	O_POST_TIPS = RuleOcr(roi=(568,1023,125,24), area=(568,1023,125,24), mode="Single", method="Default", keyword="今日不再提示", name="post_tips")
 
