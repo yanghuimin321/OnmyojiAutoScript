@@ -75,6 +75,26 @@ class ScriptTask(GameUi, Nikki_dailyAssets):
                 break
         logger.info('Enter hear_gate_entrance')
 
+        # 先到绮海抽，如果有免费抽
+        while 1:
+            self.screenshot()
+            # 匹配到“绮之券”文本，则为绮之海阁
+            if self.ocr_appear(self.O_HEART_GATE_QI, interval=0.5):
+                logger.info('Enter hear_gate_qi')
+                # 判断有没有免费抽，没有则直接跳出
+                if self.ocr_appear(self.O_HEART_GATE_MAGICAL_FREE, interval=0.2):
+                    # 点击感应
+                    self.ui_click_until_disappear(self.I_HEART_GATE_MAGICAL_INDUCE)
+                    count += 1
+                    logger.info('qi induce free one')
+                    # 出现分享按钮则代表抽完，点击无效区域退出界面
+                    self.wait_until_appear(self.I_SHARE_BUTTON, True, 10)
+                    self.ui_click_until_smt_disappear(self.C_HEART_GATE_INVALID_AREA, self.I_SHARE_BUTTON)
+                break
+            # 非绮之海阁则点击切换
+            else:
+                self.click(self.C_HEART_GATE_SWITCH, 3)
+
         # 先到幻之海抽，如果有免费抽
         while 1:
             self.screenshot()
@@ -95,8 +115,9 @@ class ScriptTask(GameUi, Nikki_dailyAssets):
             else:
                 self.click(self.C_HEART_GATE_SWITCH, 3)
 
+
         # 到谜之海抽
-        while count < 2:
+        while count < 3:
             self.screenshot()
             if self.ocr_appear(self.O_HEART_GATE_PUZZLE, interval=0.5):
                 logger.info('Enter hear_gate_puzzle')
@@ -111,7 +132,7 @@ class ScriptTask(GameUi, Nikki_dailyAssets):
             else:
                 self.click(self.C_HEART_GATE_SWITCH, 3)
 
-        if count == 2 and self.back_main_page():
+        if count == 3 and self.back_main_page():
             logger.hr('end hear_gate')
             handle_success = True
         return handle_success
@@ -271,7 +292,7 @@ class ScriptTask(GameUi, Nikki_dailyAssets):
             else:
                 self.click(self.C_BACK_HOME_PURCHASE_SNACK_CHIPS, interval=1)
             text = self.O_TIP_TEXT.ocr(self.device.image)
-            if "每天只能赠送3次哦" in text or "置物架已满" in text:
+            if "每天只能赠送3次哦" in text or "置物架已满" in text or "已达到最大限购次数" in text:
                 break
         logger.info('Finish buy snack')
 

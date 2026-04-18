@@ -1,8 +1,8 @@
 [
   {
     "itemName": "welfare_task_sign_tab_area",
-    "roiFront": "370,136,134,37",
-    "roiBack": "370,136,134,37",
+    "roiFront": "547,136,134,37",
+    "roiBack": "547,136,134,37",
     "description": "福利页面每日签到tab点击区域"
   },
   {

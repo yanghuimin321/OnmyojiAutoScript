@@ -360,6 +360,8 @@ class Nikki_dailyAssets:
 	O_HEART_GATE_MAGICAL_FREE = RuleOcr(roi=(92,1085,57,31), area=(92,1085,57,31), mode="Single", method="Default", keyword="免费", name="heart_gate_magical_free")
 	# 谜之海图片文本 
 	O_HEART_GATE_PUZZLE = RuleOcr(roi=(24,114,86,285), area=(24,114,86,285), mode="Single", method="Default", keyword="谜之海", name="heart_gate_puzzle")
+	# 绮之券图片文本 
+	O_HEART_GATE_QI = RuleOcr(roi=(599,1231,62,25), area=(599,1231,62,25), mode="Single", method="Default", keyword="绮之券", name="heart_gate_qi")
 
 
 	# Click Rule Assets
@@ -660,7 +662,7 @@ class Nikki_dailyAssets:
 
 	# Click Rule Assets
 	# 福利页面每日签到tab点击区域 
-	C_WELFARE_TASK_SIGN_TAB_AREA = RuleClick(roi_front=(370,136,134,37), roi_back=(370,136,134,37), name="welfare_task_sign_tab_area")
+	C_WELFARE_TASK_SIGN_TAB_AREA = RuleClick(roi_front=(547,136,134,37), roi_back=(547,136,134,37), name="welfare_task_sign_tab_area")
 	# 福利页面每日签到补签卡区域 
 	C_WELFARE_TASK_RESIGN_AREA_1 = RuleClick(roi_front=(159,487,63,41), roi_back=(159,487,63,41), name="welfare_task_resign_area_1")
 	# 福利页面每日签到补签卡区域 
@@ -711,9 +713,9 @@ class Nikki_dailyAssets:
 	# 福利页面标题 
 	I_WELFARE_TASK_PAGE = RuleImage(roi_front=(257,53,208,54), roi_back=(257,53,208,54), threshold=0.8, method="Template matching", file="./tasks/Nikki_daily/welfare_task/welfare_task_page.png")
 	# 福利页面每日签到tab的提示 
-	I_WELFARE_TASK_SIGN_TIP = RuleImage(roi_front=(516,135,7,8), roi_back=(516,135,7,8), threshold=0.8, method="Template matching", file="./tasks/Nikki_daily/welfare_task/welfare_task_sign_tip.png")
+	I_WELFARE_TASK_SIGN_TIP = RuleImage(roi_front=(691,135,7,8), roi_back=(691,135,7,8), threshold=0.8, method="Template matching", file="./tasks/Nikki_daily/welfare_task/welfare_task_sign_tip.png")
 	# 福利页面每日签到tab选中状态 
-	I_WELFARE_TASK_SIGN_TAB_CHECKED = RuleImage(roi_front=(370,136,134,37), roi_back=(370,136,134,37), threshold=0.8, method="Template matching", file="./tasks/Nikki_daily/welfare_task/welfare_task_sign_tab_checked.png")
+	I_WELFARE_TASK_SIGN_TAB_CHECKED = RuleImage(roi_front=(547,136,134,37), roi_back=(547,136,134,37), threshold=0.8, method="Template matching", file="./tasks/Nikki_daily/welfare_task/welfare_task_sign_tab_checked.png")
 	# 福利页面方舟补给tab未选中状态 
 	I_WELFARE_TASK_SUPPLY_TAB_UNCHECKED = RuleImage(roi_front=(564,136,134,37), roi_back=(564,136,134,37), threshold=0.8, method="Template matching", file="./tasks/Nikki_daily/welfare_task/welfare_task_supply_tab_unchecked.png")
 	# 福利页面方舟补给tab选中状态 

@@ -43,5 +43,14 @@
     "method": "Default",
     "keyword": "谜之海",
     "description": "谜之海图片文本"
+  },
+  {
+    "itemName": "heart_gate_qi",
+    "roiFront": "599,1231,62,25",
+    "roiBack": "599,1231,62,25",
+    "mode": "Single",
+    "method": "Default",
+    "keyword": "绮之券",
+    "description": "绮之券图片文本"
   }
 ]

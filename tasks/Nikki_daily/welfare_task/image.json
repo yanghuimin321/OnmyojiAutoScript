@@ -20,8 +20,8 @@
   {
     "itemName": "welfare_task_sign_tip",
     "imageName": "welfare_task_sign_tip.png",
-    "roiFront": "516,135,7,8",
-    "roiBack": "516,135,7,8",
+    "roiFront": "691,135,7,8",
+    "roiBack": "691,135,7,8",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "福利页面每日签到tab的提示"
@@ -29,8 +29,8 @@
   {
     "itemName": "welfare_task_sign_tab_checked",
     "imageName": "welfare_task_sign_tab_checked.png",
-    "roiFront": "370,136,134,37",
-    "roiBack": "370,136,134,37",
+    "roiFront": "547,136,134,37",
+    "roiBack": "547,136,134,37",
     "method": "Template matching",
     "threshold": 0.8,
     "description": "福利页面每日签到tab选中状态"
